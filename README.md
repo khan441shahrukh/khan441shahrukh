@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shahrukh, a curious Data Dcientist
-- 👀 I’m I’m currently working on Machine Learning projects.
+- 👀 I’m currently working on Machine Learning projects.
 - 🌱 I’m currently learning various machine learning models and deep learning techniques.
 - 💞️ I’m would love to collaborate on Machine Learning projects.
 - 📫 How to reach me : khan441shahrukh@gmail.com
